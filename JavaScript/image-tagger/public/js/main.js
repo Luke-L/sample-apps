@@ -1,5 +1,5 @@
 // this API Key will only work on Algorithmia's website; get your own key at https://algorithmia.com/user#credentials
-var algoClient = Algorithmia.client('simioElcGf15iGBewYTZuuLIgU61');
+var algoClient = Algorithmia.client('simKraXbtlJPIPTMDvhU6kZs3VZ1');
 
 var algorithms = {
   tagger: 'demo/IllustrationTaggerDemo/0.1.0', //'deeplearning/IllustrationTagger/0.2.5'
